@@ -74,4 +74,5 @@ Please add your package at the end of the table:
 | orient_ui | https://pub.dev/packages/orient_ui | https://fluttergems.dev/design-system/ |
 | hide_my_code | https://pub.dev/packages/hide_my_code | https://fluttergems.dev/cryptography-security-permissions/ |
 | flutter_log_handler | https://pub.dev/packages/flutter_log_handler | https://fluttergems.dev/debugging-logging/ |
-| advanced_api_client  | https://pub.dev/packages/advanced_api_client | https://fluttergems.dev/web-server/ |
+| advanced_api_client | https://pub.dev/packages/advanced_api_client | https://fluttergems.dev/web-server/ |
+| flutter_smart_forms | https://pub.dev/packages/flutter_smart_forms | https://fluttergems.dev/form/ |
